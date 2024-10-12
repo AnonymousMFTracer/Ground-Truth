@@ -13,9 +13,10 @@ Details of each cybercrime case are shown below. Click on the case name to learn
 
 There are five directories in this repository, each corresponding to one of the five real-world cybercrime cases.
 
-The CSV file in each directory, sharing the same name, contains the ground truth data $G_{g}$. The columns "From" and "To" represent the source and destination addresses of each weighted edge. The amounts of illicit funds transferred, valued in USD, are provided in the "Value_in_USD" column. Each transfer's timestamp and the hash of the corresponding transaction that caused the transfer are also included.
+The CSV file in each directory, sharing the same name, contains the ground truth data $G_\mathrm{g}$. The columns "From" and "To" represent the source and destination addresses of each weighted edge. The amounts of illicit funds transferred, valued in USD, are provided in the "Value_in_USD" column. Each transfer's timestamp and the hash of the corresponding transaction that caused the transfer are also included.
 
-The terminal addresses $V_{t}$, indicating where the illicit money ultimately flows, are listed in the file named "terminal addresses.csv."
+The terminal addresses $V_\mathrm{t}$, indicating where the illicit money ultimately flows, are listed in the file named "terminal addresses.csv".
+The source addresses $A_\mathrm{vic}$ are listed in the file "source addresses.csv".
 
 ### Ongoing Updates
 
