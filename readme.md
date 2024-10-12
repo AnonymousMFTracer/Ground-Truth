@@ -2,7 +2,7 @@
 This is an anonymous repository publicly releasing the ground truth data contributed by the paper *"Shedding Light on Shadows: Automatically Tracing Illicit Money Flows on Ethereum,"* submitted to WWW2025.
 
 Details of each cybercrime case are shown below. Click on the case name to learn more about the incidents.
-Each of the addresses and edges is manually verified. "Money" refers to the amount of verified money stolen from victims in USD. Tracing is performed up to 20 hops from the victim addresses.
+Each of the addresses and edges is manually verified. "Money Involved" refers to the amount of verified money stolen from victims in USD. Tracing is performed up to 20 hops from the victim addresses.
 
 |                       Cybercrime Case                        |         Time          | Money Involved  | Address | Edges |
 | :----------------------------------------------------------: | :-------------------: | :-------------: | :-----: | :-------: |
