@@ -9,7 +9,7 @@ Each of the addresses and edges is manually verified. "Money Involved" refers to
 | :----------------------------------------------------------: | :-------------------: | :-------------: | :-----: | :-------: |
 | [54M (54M phishing on vault)](https://x.com/BlockSecTeam/status/1826200855827390652) | Aug. 2024 - Sep. 2024 | $54\mathrm{M}$  |   151   |    292    |
 | [LIFI (LI.FI Hack)](https://revoke.cash/exploits/lifi-2024?chainId=1) | Jul. 2024 - Sep. 2024 | $11\mathrm{M}$  |   93    |    135    |
-| [Atomic (Atomic Wallet Hack)](https://x.com/Adil05434531/status/1798097027940950385) | Jun. 2023 - Jul. 2023 | $10\mathrm{M}$  |   389   |   1080    |
+| [Atomic (Atomic Wallet Hack)](https://atomicwallet.io/blog/articles/june-3rd-event-statement) | Jun. 2023 - Jul. 2023 | $10\mathrm{M}$  |   389   |   1080    |
 | [HB (Harmony Bridge Hack)](https://x.com/zachxbt/status/1619489550233133056) | Jan. 2023 - Feb. 2023 | $50\mathrm{M}$  |   469   |   3887    |
 | [XScam (Discord & X Scam)](https://zachxbt.mirror.xyz/svL1N4xPLX5nXHr6Cw4KLsjRtaYHxm4MAqmFy6zx3cw) | Jun. 2022 - Nov. 2022 | $583\mathrm{k}$ |   837   |   1307    |
 
